@@ -1,0 +1,18 @@
+ubuntu@ubuntu:~$ cd Desktop
+ubuntu@ubuntu:~/Desktop$ cat > "Pets"
+Dogs
+Cats
+Hamsters
+ubuntu@ubuntu:~/Desktop$ cat > "Pack"
+Horses
+Camels
+Donkeys
+ubuntu@ubuntu:~/Desktop$ cat Pets Pack > Animals
+ubuntu@ubuntu:~/Desktop$ cat Animals
+Dogs
+Cats
+Hamsters
+Horses
+Camels
+Donkeys
+ubuntu@ubuntu:~/Desktop$ mv Animals HumanFriends
