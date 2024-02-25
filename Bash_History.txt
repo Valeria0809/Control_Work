@@ -16,3 +16,7 @@ Horses
 Camels
 Donkeys
 ubuntu@ubuntu:~/Desktop$ mv Animals HumanFriends
+ubuntu@ubuntu:~/Desktop$ mv HumanFriends Animals/
+ubuntu@ubuntu:~/Desktop$ cd Animals
+ubuntu@ubuntu:~/Desktop/Animals$ ls
+HumanFriends
